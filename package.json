@@ -4,7 +4,6 @@
   "description": "Downloader for https://github.com/mozilla/geckodriver/releases",
   "scripts": {
     "test": "ava",
-    "postinstall": "node index.js"
   },
   "repository": {
     "type": "git",
